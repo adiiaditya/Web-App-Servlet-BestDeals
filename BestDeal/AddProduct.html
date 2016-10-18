@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html>
+ <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>BestDeal: Expert Service. Unbelievable Deals.</title>
+    <link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+ <body>
+<div id="container">
+<header>
+<h1><a href='index.html'>Best<span>Deal</span></a></br></h1>
+<h2>Expert Service. Unbelievable Deals.</h2>
+<div class="panelHeader">
+<b>Admin Panel</b>
+</div>
+</header>
+    <form id='addProduct' action='/BestDeal/AddProductServlet' method='post'
+    accept-charset='UTF-8'>
+         <span style="color:red;">Note:</span> Please Enter all the fields</br></br>
+         <table cellpadding='2' cellspacing='1'>
+    <tr>
+        <td><b>Product ID*:</b></td>
+        <td><input required type='text' name='productID' id='productID' maxlength="10" /></input></td>
+    </tr>
+    <tr>
+        <td><b>Product Name:*:</b></td>
+        <td><input required type="text" name='productName' id='productName' maxlength="30"></input></td>
+    </tr>
+    <tr>
+        <td><b>Product Description*:</b></td>
+        <td><input required type="text" name='productDesc' id='productDesc' maxlength="50"></input></td>
+    </tr>
+        <tr>
+        <td><b>Product Category*:</b></td>
+        <td>
+        <select name="productType" id='productType'>
+		<option value="SmartPhones">Smart Phones</option>
+		<option value="TV">TV</option>
+		<option value="Laptops">Laptops</option>
+		<option value="Tablets">Tablets</option>
+		<option value="Accessory">Accessories</option>
+		</select>
+        </td>
+        </tr>
+    <tr>
+        <td><b>Manufacturer Name*:</b></td>
+        <td><input required type="text" name='productBrand' id='productBrand' maxlength="10"></input></td>
+    </tr>
+    <tr>
+        <td><b>Price*:</b></td>
+        <td><input required type="text" name='productPrice' id='productPrice' maxlength="10"></input></td>
+    </tr>
+    <tr>
+        <td colspan='2'>
+            <center><input type="submit" name='AddProduct' value="Submit" /></center>
+        </td>
+    </tr>
+ </table>
+</form>
+<footer>
+    <div class="footer-bottom">
+            <p>&copy; 2016 BestDeal. Prices and offers are subject to change. All rights reserved.</p>
+         </div>
+    </footer>
+</div>
+ </body>
+</html>

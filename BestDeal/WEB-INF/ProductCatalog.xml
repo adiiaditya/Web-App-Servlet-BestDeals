@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><ProductCatalog>   
+<Product>
+        <id>SP001</id>
+        <name>iPhone 5S</name>
+        <type>SmartPhones</type>
+        <brand>Apple</brand>
+        <image>iPhone5S.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>499</price>
+        <description>beautiful</description>
+    </Product>
+<Product>
+        <id>SP002</id>
+        <name>iPhone7</name>
+        <type>SmartPhones</type>
+        <brand>Apple</brand>
+        <image>iPhone7.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>699</price>
+        <description>waterproof</description>
+    </Product>
+<Product>
+        <id>SP003</id>
+        <name>Galaxy S7</name>
+        <type>SmartPhones</type>
+        <brand>Samsung</brand>
+        <image>SGalaxyS7.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>699</price>
+        <description>sturdy</description>
+    </Product>
+<Product>
+        <id>SP004</id>
+        <name>Lumia 1520</name>
+        <type>SmartPhones</type>
+        <brand>Nokia</brand>
+        <image>NokiaLumia1520.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>599</price>
+        <description>Windows Phone</description>
+    </Product>
+<Product>
+        <id>SP005</id>
+        <name>G5</name>
+        <type>SmartPhones</type>
+        <brand>LG</brand>
+        <image>LG-G5.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>499</price>
+        <description>Attractive</description>
+    </Product>
+<Product>
+        <id>TV001</id>
+        <name>UN32J5003</name>
+        <type>TV</type>
+        <brand>Samsung</brand>
+        <image>SamsungLED.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>200</price>
+        <description>32-inch</description>
+    </Product>
+<Product>
+        <id>TV002</id>
+        <name>KDL48R510C</name>
+        <type>TV</type>
+        <brand>Sony</brand>
+        <image>SonyLED.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>500</price>
+        <description>48-inch</description>
+    </Product>
+<Product>
+        <id>TV003</id>
+        <name>49LH5700</name>
+        <type>TV</type>
+        <brand>LG</brand>
+        <image>LGLED.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>400</price>
+        <description>49-inch</description>
+    </Product>
+<Product>
+        <id>TV004</id>
+        <name>UN55KU6300</name>
+        <type>TV</type>
+        <brand>Samsung</brand>
+        <image>SamsungUHD.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>700</price>
+        <description>55-inch</description>
+    </Product>
+<Product>
+        <id>TV005</id>
+        <name>D50-D1</name>
+        <type>TV</type>
+        <brand>VIZIO</brand>
+        <image>VizioLED.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>450</price>
+        <description>50-inch</description>
+    </Product>
+    <Product>
+        <id>L001</id>
+        <name>14-an013nr</name>
+        <type>Laptops</type>
+        <brand>HP</brand>
+        <image>HPLaptop.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>200</price>
+        <description>14-inch, 4GB RAM</description>
+    </Product>
+<Product>
+        <id>L002</id>
+        <name>Aspire E 15</name>
+        <type>Laptops</type>
+        <brand>Acer</brand>
+        <image>AcerLaptop.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>350</price>
+        <description>4GB DDR4, 1TB HDD</description>
+    </Product>
+<Product>
+        <id>L003</id>
+        <name>MacBook Air</name>
+        <type>Laptops</type>
+        <brand>Apple</brand>
+        <image>MacbookAir.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>800</price>
+        <description>13.3-Inch, 8GB RAM, 128 GB SSD</description>
+    </Product>
+<Product>
+        <id>L004</id>
+        <name>Envy x2</name>
+        <type>Laptops</type>
+        <brand>HP</brand>
+        <image>HPEnvy.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>450</price>
+        <description>8GB DDR3, 256GB SSD</description>
+    </Product>
+<Product>
+        <id>L005</id>
+        <name>Chromebook CB3-131-C3SZ</name>
+        <type>Laptops</type>
+        <brand>Acer</brand>
+        <image>AcerChromebook.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>174</price>
+        <description>11.6-Inch,2 GB RAM,16 GB SSD</description>
+    </Product>
+<Product>
+        <id>T001</id>
+        <name>Galaxy Tab E</name>
+        <type>Tablets</type>
+        <brand>Samsung</brand>
+        <image>SamsungTabA.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>200</price>
+        <description>9.6'', 16 GB Wifi</description>
+    </Product>
+<Product>
+        <id>T002</id>
+        <name>Galaxy Tab A</name>
+        <type>Tablets</type>
+        <brand>Samsung</brand>
+        <image>SamsungTabE.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>300</price>
+        <description>10.1'',16GB, Black</description>
+    </Product>
+<Product>
+        <id>T003</id>
+        <name>iPad2</name>
+        <type>Tablets</type>
+        <brand>Apple</brand>
+        <image>iPad.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>400</price>
+        <description>9.7'',16GB, Black</description>
+    </Product>
+<Product>
+        <id>T004</id>
+        <name>Zenpad</name>
+        <type>Tablets</type>
+        <brand>Asus</brand>
+        <image>Asus.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>129</price>
+        <description>8'' ,Quad-Core,Dark Grey</description>
+    </Product>
+<Product>
+        <id>T005</id>
+        <name>Fire</name>
+        <type>Tablets</type>
+        <brand>Amazon</brand>
+        <image>FireTablet.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>50</price>
+        <description>7" Display, Wi-Fi, 8 GB, Blue</description>
+    </Product>
+<Product>
+        <id>A001</id>
+        <name>Headphones</name>
+        <type>Accessory</type>
+        <brand>Bose</brand>
+        <image>A001.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>300</price>
+        <description>Noise Reducive</description>
+    </Product>
+    <Product>
+        <id>A002</id>
+        <name>earphones</name>
+        <type>Accessory</type>
+        <brand>Apple</brand>
+        <image>A002.jpg</image>
+        <retailer>BestDeal</retailer>
+        <price>100</price>
+        <description>Unique design</description>
+    </Product>
+
+
+</ProductCatalog>

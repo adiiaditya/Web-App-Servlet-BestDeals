@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Users>
+    <user>
+        <fullname>admin</fullname>
+        <username>admin</username>
+        <password>admin</password>
+    </user>
+     <user>
+        <fullname>salesman</fullname>
+        <username>salesman</username>
+        <password>salesman</password>
+    </user>
+
+<user><fullname>Aditya Kumar</fullname><username>aditya</username><password>aditya</password></user><user><fullname>Rakesh Kumar</fullname><username>rk</username><password>rk</password></user></Users>

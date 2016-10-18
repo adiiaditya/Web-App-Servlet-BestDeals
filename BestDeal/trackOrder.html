@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+
+<!--
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+-->
+
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<title>BestDeal: Expert Service. Unbelievable Deals.</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+</head>
+<body>
+<div id="container">
+<header>
+<h1><a href='/BestDeal/HomeServlet'>Best<span>Deal</span></a></h1>
+<h2>Expert Service. Unbelievable Deals.</h2>
+</header>
+<nav>
+    	<ul>
+        	<li class="start selected"><a href="/BestDeal/HomeServlet">Home</a></li>
+            <li class="dropdown">
+            <a class="dropbtn" href="">Products</a>
+            <div class="dropdown-content">
+            <a href="/BestDeal/MobileServlet">Mobile Phones</a>
+            <a href="/BestDeal/TabletServlet">Tablets</a>
+            <a href="/BestDeal/LaptopServlet">Laptops</a>
+            <a href="/BestDeal/TVServlet">TV</a>
+            </div>
+            </li>
+            <li><a href="/BestDeal/AccessoryServlet">Accessories</a></li>
+            <li class="end"><a href="trackOrder.html">Track Order</a></li>
+            <li class="end"><a href="/BestDeal/LogOutServlet">Sign Out</a></li>
+        </ul>
+    </nav>
+<div id="body">
+<section id="content">
+<br/>
+<div class='panelHeader'>
+<b>Track Order</b>
+</div>
+<article>
+<p>Enter the Order ID recieved on placing the order.</p>
+</article>
+<article class="expanded">
+<form method="get" action="/BestDeal/TrackOrder">
+<table>
+    <tr>
+        <td> Order ID: </td>
+        <td> <input required type='text' id='trackOrderID' name='trackOrderID'> </td>
+    </tr>
+</table>
+<br><br>
+<center><input type="submit" value="Track Order"></center>
+</form>
+</section>
+ <aside class="sidebar">
+	
+             <ul>	
+               <li>
+                    <h4>Shop By Products</h4>
+                    <ul>
+                        <li><a href="/csj/PhonesServlet">Smart Phones</a></li>
+                        <li><a href="/csj/TabletsServlet">Tablets</a></li>
+                        <li><a href="/csj/LaptopsServlet">Laptops</a></li>
+                        <li><a href="/csj/TVServlet">Television</a></li>
+                    </ul>
+                </li>
+                
+                <li>
+                    <h4>Contact us</h4>
+                    <ul>
+                        <li class="text">
+                        	<p style="margin: 0;">2901 S King Dr, Chicago-60616</p>                        </li>
+                    </ul>
+                </li>  
+            </ul>
+		
+        </aside>
+<div class='clear'></div>
+</div>
+<footer>
+    <div class="footer-bottom">
+            <p>&copy; 2016 BestDeal. Prices and offers are subject to change. All rights reserved.</p>
+         </div>
+    </footer>
+</div>
+</body>
+</html>
